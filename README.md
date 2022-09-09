@@ -166,3 +166,7 @@ public void Bader❌()
 {
 }
 ```
+
+## See also
+
+- [C# Coding Guidelines and Practices - 2021](https://vmsdurano.com/c-coding-guidelines-and-practices/)
